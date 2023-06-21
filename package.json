@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duck0-Land/readmeGenerator.git"
+  },
+  "keywords": [
+    "readMeGen"
+  ],
+  "author": "Ethan Armstrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duck0-Land/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/Duck0-Land/readmeGenerator#readme"
+}
