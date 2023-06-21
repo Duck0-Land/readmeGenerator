@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Duck0-Land/readmeGenerator/issues"
   },
-  "homepage": "https://github.com/Duck0-Land/readmeGenerator#readme"
+  "homepage": "https://github.com/Duck0-Land/readmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
 }
